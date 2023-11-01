@@ -1,6 +1,6 @@
 # Artificial Intelligence Data Fairness and Bias
 
-`Data bias` `Machine Learning`
+`Algorithms` `Data Analysis` `Machine Learning`
 
 ## Overview
 This repository contains the summarized learning materials of **Artificial Intelligence Data Fairness and Bias**.
